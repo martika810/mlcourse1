@@ -9,11 +9,10 @@ yattag
 urllib3
 sqlalchemy
 records
-html5lib
-lxml
 scikit-learn
 Pillow
 imageio
 vaderSentiment
 nltk
 dataset
+datetime

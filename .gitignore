@@ -1,3 +1,6 @@
 chromedriver.exe
 .idea
+.idea/
 *.zip
+*.pkl
+.csv
